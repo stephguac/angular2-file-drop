@@ -8,7 +8,6 @@ pids
 *.pid
 *.seed
 
-dist
 *.metadata.json
 *.ngsummary.json
 *.ngfactory.ts

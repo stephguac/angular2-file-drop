@@ -5,10 +5,10 @@
  */
  /* tslint:disable */
 
-import * as import0 from 'ng2-file-input/node_modules/angular2-file-drop/src/file-drop.directive';
-import * as import1 from 'ng2-file-input/node_modules/angular2-file-drop/node_modules/@angular/core/src/change_detection/change_detection_util';
-import * as import2 from 'ng2-file-input/node_modules/angular2-file-drop/node_modules/@angular/core/src/linker/view';
-import * as import3 from 'ng2-file-input/node_modules/angular2-file-drop/node_modules/@angular/core/src/linker/view_utils';
+import * as import0 from './file-drop.directive';
+import * as import1 from '@angular/core/src/change_detection/change_detection_util';
+import * as import2 from '@angular/core/src/linker/view';
+import * as import3 from '@angular/core/src/linker/view_utils';
 export class Wrapper_FileDropDirective {
   /*private*/ _eventHandler:Function;
   context:import0.FileDropDirective;
